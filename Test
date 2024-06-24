@@ -1,0 +1,18 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		String s1=new String("helo");
+		StringBuffer sb=new StringBuffer();
+		s1.charAt(0);
+		System.out.println(s1.charAt(0));
+		
+		
+		
+		System.out.println("this is my first program");
+		
+	
+		}
+
+}
